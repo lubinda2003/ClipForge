@@ -1,0 +1,6 @@
+{
+  "name": "ClipForge",
+  "description": "Headless AI video production pipeline for automated research, scripting, narration, and rendering of short-form and long-form videos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
